@@ -1,0 +1,14 @@
+C:\Users\ABanks\Desktop\RemoveOldFiles\RemoveOldFiles\RemoveOldFiles\bin\Debug\RemoveOldFiles.exe.config
+C:\Users\ABanks\Desktop\RemoveOldFiles\RemoveOldFiles\RemoveOldFiles\bin\Debug\RemoveOldFiles.exe
+C:\Users\ABanks\Desktop\RemoveOldFiles\RemoveOldFiles\RemoveOldFiles\bin\Debug\RemoveOldFiles.pdb
+C:\Users\ABanks\Desktop\RemoveOldFiles\RemoveOldFiles\RemoveOldFiles\obj\Debug\RemoveOldFiles.csproj.CoreCompileInputs.cache
+C:\Users\ABanks\Desktop\RemoveOldFiles\RemoveOldFiles\RemoveOldFiles\obj\Debug\RemoveOldFiles.exe
+C:\Users\ABanks\Desktop\RemoveOldFiles\RemoveOldFiles\RemoveOldFiles\obj\Debug\RemoveOldFiles.pdb
+C:\Users\ABanks\Desktop\RemoveOldFiles\RemoveOldFiles\RemoveOldFiles\obj\Debug\RemoveOldFiles.csprojResolveAssemblyReference.cache
+C:\Users\ABanks\Desktop\RemoveOldFiles\RemoveOldFiles - Release\RemoveOldFiles\bin\Debug\RemoveOldFiles.exe.config
+C:\Users\ABanks\Desktop\RemoveOldFiles\RemoveOldFiles - Release\RemoveOldFiles\bin\Debug\RemoveOldFiles.exe
+C:\Users\ABanks\Desktop\RemoveOldFiles\RemoveOldFiles - Release\RemoveOldFiles\bin\Debug\RemoveOldFiles.pdb
+C:\Users\ABanks\Desktop\RemoveOldFiles\RemoveOldFiles - Release\RemoveOldFiles\obj\Debug\RemoveOldFiles.csprojResolveAssemblyReference.cache
+C:\Users\ABanks\Desktop\RemoveOldFiles\RemoveOldFiles - Release\RemoveOldFiles\obj\Debug\RemoveOldFiles.csproj.CoreCompileInputs.cache
+C:\Users\ABanks\Desktop\RemoveOldFiles\RemoveOldFiles - Release\RemoveOldFiles\obj\Debug\RemoveOldFiles.exe
+C:\Users\ABanks\Desktop\RemoveOldFiles\RemoveOldFiles - Release\RemoveOldFiles\obj\Debug\RemoveOldFiles.pdb
