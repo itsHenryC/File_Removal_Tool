@@ -1,5 +1,9 @@
-# RemoveOldFiles
+# File Removal Tool
 
-Console application that removes old files and empty folders from a root folder that are older than a specified date. Hidden/Read-only/System-flagged files are ignored by fault but can be forced to include.
+## Getting started
 
---help: Help menu.
+Console application used to remove old files and empty folders that are older than a specified date.
+
+Hidden/Read-only/System-flagged files are ignored by default but can be forced to be included.
+
+Use `--help` for more information.
